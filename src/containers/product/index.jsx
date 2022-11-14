@@ -1,5 +1,5 @@
 import React, {forwardRef} from 'react';
-import {Wrapper, Flex, Title, Text, Hr, Button} from 'components/uai';
+import {Wrapper, Flex, Title, Text, Hr, Button} from 'components/ui';
 import Carousel from 'components/Carousel';
 import ColorPicker from 'components/ColorPicker';
 import SizePicker from 'components/SizePicker';

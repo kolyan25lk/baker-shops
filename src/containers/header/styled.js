@@ -8,7 +8,7 @@ width: 100%;
 background: url(${HeaderBg});
 background-repeat: no-repeat;
 background-size: cover;
-`
+`;
 
 export const Absolute = styled.div`
 position: absolute;
@@ -18,7 +18,7 @@ display: flex;
 flex-direction: column ;
 align-items:flex-end;
 
-`
+`;
 export const HeaderText = styled.h1`
 font-family: Roboto;
 text-transform: uppercase;
@@ -28,4 +28,4 @@ margin-bottom: ${({space}) => (space ? space : '10px')}  ;
 font-weight: ${({weight}) => (weight ? weight : 400)} ;
 font-size: ${({size}) => (size ? size : '55px')} ;
 color: ${({red}) => (red ? '#E6110C' : '#FFFFFF')}  ;
-`
+`;

@@ -1,5 +1,5 @@
 import React, {forwardRef} from 'react';
-import {Wrapper, Title, Text} from 'components/uai';
+import {Wrapper, Title, Text} from 'components/ui';
 import Form from 'components/Form';
 
 const Order = forwardRef((_, ref) => (  

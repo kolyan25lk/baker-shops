@@ -1,5 +1,5 @@
 import React from 'react';
-import {Wrapper, Flex} from 'components/uai';
+import {Wrapper, Flex} from 'components/ui';
 import {ReactComponent as Logo} from 'assets/logo.svg';
 import {ReactComponent as Twitter} from 'assets/twitter.svg';
 import {ReactComponent as Facebook} from 'assets/facebook.svg';

@@ -1,5 +1,5 @@
 import React from 'react';
-import {Wrapper, Title, Flex} from 'components/uai';
+import {Wrapper, Title, Flex} from 'components/ui';
 import PostCard from 'components/PostCard';
 import Post1 from 'assets/post-1.png';
 import Post2 from 'assets/post-2.png';
