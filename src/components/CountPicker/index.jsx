@@ -1,5 +1,5 @@
 import React, {useContext} from 'react';
-import {Flex, Text} from 'components/uai';
+import {Flex, Text} from 'components/ui';
 import Context from 'containers/context/context';
 import {Button, Input} from './styled';
 

@@ -1,5 +1,5 @@
 import React, {useState, useContext} from 'react';
-import {Flex, Button, Title, Text, SubTitle} from 'components/uai';
+import {Flex, Button, Title, Text, SubTitle} from 'components/ui';
 import TextField from 'components/TextField';
 import Context from 'containers/context/context';
 

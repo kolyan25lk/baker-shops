@@ -1,5 +1,5 @@
 import React from 'react';
-import {SubTitle, Text, Flex} from 'components/uai';
+import {SubTitle, Text, Flex} from 'components/ui';
 
 function PostCard({image, title, text}) {
 return (

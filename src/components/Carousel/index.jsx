@@ -1,5 +1,5 @@
 import React, {useState, useEffect, useRef } from "react";
-import {Flex} from 'components/uai';
+import {Flex} from 'components/ui';
 
 import {
     Arrow,
