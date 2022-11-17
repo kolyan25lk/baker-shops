@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/baker-shops/static/css/main.35cbcf1f.css",
+    "main.js": "/baker-shops/static/js/main.188eb67d.js",
+    "static/media/header-bg.png": "/baker-shops/static/media/header-bg.f661f37723d83daffaaa.png",
+    "static/media/image-7.png": "/baker-shops/static/media/image-7.da828ecbd6f2b6211b3b.png",
+    "static/media/image-6.png": "/baker-shops/static/media/image-6.1055567f02faf5f19223.png",
+    "static/media/image-3.png": "/baker-shops/static/media/image-3.139b3fb3370e0cff7789.png",
+    "static/media/image-8.png": "/baker-shops/static/media/image-8.875a10b1a0e28d42651c.png",
+    "static/media/image-5.png": "/baker-shops/static/media/image-5.d7026d3759d1ff0d15a2.png",
+    "static/media/image-2.png": "/baker-shops/static/media/image-2.df67929434822f06b18d.png",
+    "static/media/image-4.png": "/baker-shops/static/media/image-4.3b62e1cd287c070408dc.png",
+    "static/media/image-1.png": "/baker-shops/static/media/image-1.1777b4ed01d7fe400bb5.png",
+    "static/media/post-2.png": "/baker-shops/static/media/post-2.098e47282b855a27704b.png",
+    "static/media/post-3.png": "/baker-shops/static/media/post-3.934a9c4b07c3886ec479.png",
+    "static/media/checkout.png": "/baker-shops/static/media/checkout.7d85da9957d6c7718e92.png",
+    "static/media/post-4.png": "/baker-shops/static/media/post-4.caab2eb60ba6630d6fa5.png",
+    "static/media/post-1.png": "/baker-shops/static/media/post-1.cdbd4338d1ed66c336a4.png",
+    "static/media/logo.svg": "/baker-shops/static/media/logo.2fc2eaae52501690ef3201d589df5f97.svg",
+    "static/media/twitter.svg": "/baker-shops/static/media/twitter.3bc7670b237ee28559aa0eb3619cba8d.svg",
+    "index.html": "/baker-shops/index.html",
+    "static/media/facebook.svg": "/baker-shops/static/media/facebook.48aa64b1879fcbd93ec048ee2efc8c18.svg",
+    "static/media/telegram.svg": "/baker-shops/static/media/telegram.3a73f548fa03e353d679f5eb546291f1.svg",
+    "main.35cbcf1f.css.map": "/baker-shops/static/css/main.35cbcf1f.css.map",
+    "main.188eb67d.js.map": "/baker-shops/static/js/main.188eb67d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35cbcf1f.css",
+    "static/js/main.188eb67d.js"
+  ]
+}
